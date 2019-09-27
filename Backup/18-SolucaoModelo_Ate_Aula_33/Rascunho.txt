@@ -1,2 +1,0 @@
-SELECT a. adm from usuario a where a.login = '' 
-and a. senha = '' and a.ativo = 'S' 
